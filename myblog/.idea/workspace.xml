@@ -4,7 +4,9 @@
     <list default="true" id="cd96ac80-2905-4be8-812f-875941a26028" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/themes/clover/layout/_partial/12.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/photos/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/photos/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Blog/IMG_6535.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/创建新博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/创建新博客.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/clover" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clover" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/clover/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clover/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/clover/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/clover/index.html" afterDir="false" />
@@ -111,7 +113,7 @@
       <workItem from="1572090403327" duration="2174000" />
       <workItem from="1572141877471" duration="94000" />
       <workItem from="1572185329637" duration="88000" />
-      <workItem from="1572185440908" duration="801000" />
+      <workItem from="1572185440908" duration="1513000" />
     </task>
     <servers />
   </component>
