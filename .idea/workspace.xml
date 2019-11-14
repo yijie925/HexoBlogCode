@@ -2,31 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/source/_posts/12/timg2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Blog/timg2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/article_header/timg2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/avatar/timg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/avatar/timg2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/timg.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/header_img/boatmountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/header_img/tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/img/header_img/tree2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/dist/APlayer.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/dist/APlayer.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/dist/APlayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/dist/APlayer.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aplayer/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/09/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/Hello_World/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/Hello_World/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/article/12/timg2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/rocket.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/rocket.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/page-sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post-sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag-sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Hexo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Hexo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hello_World.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hello_World.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/12/timg2.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/huweihuang/layout/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/huweihuang/layout/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/huweihuang/source/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/huweihuang/source/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/huweihuang/source/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/themes/huweihuang/source/css/bootstrap.min.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,15 +36,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T6jINHrK98dlHa7vq6nj9pEbYO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/img/header_img" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/img/header_img" />
       <recent name="$PROJECT_DIR$/source/_posts/12" />
       <recent name="$PROJECT_DIR$/source/_posts/Blog" />
-      <recent name="$PROJECT_DIR$/source/img/header_img" />
       <recent name="$PROJECT_DIR$/source/img/article_header" />
       <recent name="$PROJECT_DIR$/source/img/avatar" />
     </key>
@@ -73,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572787358656</updated>
-      <workItem from="1572787361417" duration="5607000" />
+      <workItem from="1572787361417" duration="5867000" />
+      <workItem from="1573738466472" duration="5603000" />
     </task>
     <servers />
   </component>
@@ -85,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
