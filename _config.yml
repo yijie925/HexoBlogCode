@@ -25,7 +25,7 @@ SEOTitle: YiJie | Blog
 email: e-mail_address
 description: ""
 keyword: ""
-header-img: /img/header_img/timg.jpeg #首页图片
+header-img: /img/header_img/mountain.jpg #首页图片
 article-img: /img/article_header/article_bg.jpg
 404-img: /img/header_img/404.png
 signature: false #show signature
@@ -64,8 +64,8 @@ ga_domain: yoursite
 
 # Sidebar settings #侧边栏修改
 sidebar: true                       # whether or not using Sidebar.
-sidebar-about-description: "afafafaavca"    #侧边栏描述部分
-sidebar-avatar: /img/avatar/timg.jpeg   #侧边栏图片展示 use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "把握好生活的重心"    #侧边栏描述部分
+sidebar-avatar: /img/signature/Y.jpg   #侧边栏图片展示 use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - featured-tags
 - short-about
