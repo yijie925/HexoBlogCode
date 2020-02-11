@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/img/header_img/exp2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/cp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/offer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/ucas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/ucas1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/ucas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Profile/white.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/academic/academic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/experience/exp1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/experience/exp2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/academic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/cp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/exp1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/exp2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/offer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/ucas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/ucas1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/ucas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/img/header_img/white.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
@@ -30,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/public/archives/2019/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2019/11/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2019/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/article/Profile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/Profile/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/article/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/academic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/article/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/experience/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/article/写在猪猪来之前/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写在猪猪来之前/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/article/写给兔姨的生日祝福/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写给兔姨的生日祝福/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/article/写给别人序/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写给别人序/index.html" afterDir="false" />
@@ -38,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/public/post-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post-sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tag-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag-sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Application/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/书摘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/书摘/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/信/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/信/index.html" afterDir="false" />
@@ -59,19 +43,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/experience" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/安溥" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/_posts/experience" />
-      <recent name="$PROJECT_DIR$/source/img/header_img" />
-      <recent name="$PROJECT_DIR$/public/img/header_img" />
-      <recent name="$PROJECT_DIR$/source/_posts/Profile" />
-      <recent name="$PROJECT_DIR$/source/_posts/academic" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/_posts/写在猪猪来之前" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/安溥" />
+      <recent name="$PROJECT_DIR$/source/img/wu" />
+      <recent name="$PROJECT_DIR$/source/_posts/我不能丢下我的壳但你可以拥有我的被子当你需要被温暖的时候" />
+      <recent name="$PROJECT_DIR$/source/_posts/青峰与小路" />
+      <recent name="$PROJECT_DIR$/source/_posts/experience" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -102,7 +86,10 @@
       <workItem from="1573911762793" duration="470000" />
       <workItem from="1574322619121" duration="7332000" />
       <workItem from="1574923929597" duration="119000" />
-      <workItem from="1574924230409" duration="9470000" />
+      <workItem from="1574924230409" duration="9762000" />
+      <workItem from="1576381913902" duration="295000" />
+      <workItem from="1581429137135" duration="3807000" />
+      <workItem from="1581434126121" duration="442000" />
     </task>
     <servers />
   </component>
