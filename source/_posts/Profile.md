@@ -8,6 +8,7 @@ tags:
 - Application
 ---
 ## <center>Yijie's CV</center>
-![](https://tva1.sinaimg.cn/large/006y8mN6gy1g9dsitkcu3j30q815y7e3.jpg)
 
 
+
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gg78g6l04bj30p815ywo5.jpg)
