@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2019/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2019/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2019/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2020/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2020/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2020/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/archives/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/archives/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/PTT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/PTT/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/Profile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/Profile/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/academic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/academic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/experience/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/experience/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/一些小文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/一些小文/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/一些访谈/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/一些访谈/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/写在猪猪来之前/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写在猪猪来之前/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/写给兔姨的生日祝福/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写给兔姨的生日祝福/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/写给别人序/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/写给别人序/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/安溥anpu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/安溥anpu/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/成为自己的橄榄树/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/成为自己的橄榄树/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/生命必有裂缝/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/生命必有裂缝/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/谈商业/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/谈商业/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/article/青峰与小路/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/article/青峰与小路/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/post-sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tag-sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tag-sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Application/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Application/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/书摘/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/书摘/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/信/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/信/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/猪猪/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/猪猪/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/青峰/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/青峰/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Profile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Profile.md" afterDir="false" />
-    </list>
+    <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +75,7 @@
       <workItem from="1604569041329" duration="146000" />
       <workItem from="1605779223017" duration="109000" />
       <workItem from="1606582156786" duration="75000" />
+      <workItem from="1606582371058" duration="13000" />
     </task>
     <servers />
   </component>
