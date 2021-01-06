@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="" />
+    <list default="true" id="cff9e5c6-24cf-4411-838b-66c8a53243f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Profile.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/academic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/experience.md" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/谈商业" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -75,7 +80,10 @@
       <workItem from="1604569041329" duration="146000" />
       <workItem from="1605779223017" duration="109000" />
       <workItem from="1606582156786" duration="75000" />
-      <workItem from="1606582371058" duration="13000" />
+      <workItem from="1606582371058" duration="294000" />
+      <workItem from="1609916839905" duration="2000" />
+      <workItem from="1609916872500" duration="4000" />
+      <workItem from="1609916885729" duration="42000" />
     </task>
     <servers />
   </component>
